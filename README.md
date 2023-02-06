@@ -5,7 +5,6 @@ We present the implementation of the AAAI 2023 paper :
 > [**Sustaining Fairness via Incremental Learning**](https://arxiv.org/pdf/2208.12212.pdf),<br/>
 [Somnath Basu Roy Chowdhury](https://www.cs.unc.edu/~somnath/) and [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/), <br>UNC Chapel Hill
 
-<img src="./assets/picture.png" alt="motivation" width="750"/>
 
 ## Dataset
 
