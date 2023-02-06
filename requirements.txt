@@ -1,0 +1,11 @@
+apricot==0.2
+apricot_select==0.6.1
+matplotlib==3.4.3
+numpy==1.19.5
+Pillow==9.4.0
+scikit_learn==1.2.1
+tensorboard_logger==0.1.0
+torch==1.13.0
+torchvision==0.9.1
+tqdm==4.64.1
+transformers==4.12.5
